@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @mouradsme. You can call me Mourad.
+- I have a Master's degree in Production Engineering.
+- 👀 I’m interested in programming in general. I have experience using PHP/Mysql, NodeJS, Vue.JS, (a little bit of) ReactJS...
+- 🌱 I’m currently learning to use Tauri, and I'm planning to start using WebGL technologies for awesome 3D websites and apps.
+- 💞️ I’ve always worked alone (or with this one designer, who's a friend of mine), so I don't know much about collabs. However, I am interested in collaborating.
