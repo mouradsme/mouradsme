@@ -18,7 +18,7 @@
 
 ```javascript
 const mourad = {
-    location: "Relizane, Algeria 🇩🇿",
+    locations: "Algeria, Qatar",
     education: "Master's in Production Engineering",
     learning: ["Tauri", "WebGL", "Three.js", "3D Web Experiences"],
     favoriteFramework: "Laravel 👑",
