@@ -2,16 +2,16 @@
 
 # 👋 Hey there, I'm Mourad!
 
-### 🚀 Full-Stack Developer | Production Engineer | 3D Web Enthusiast
+### 🚀 Full-Stack Developer
 
 *Crafting digital experiences with clean code and creative solutions*
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mbousserouel)
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/Mousserouel)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/mbousserouel)
 
 </div>
 
+[![Why PHP](https://img.shields.io/badge/Why_PHP-in_2026-7A86E8?style=for-the-badge&labelColor=18181b)](https://whyphp.dev)
 ---
 
 ## 🎯 About Me
@@ -60,12 +60,9 @@ const mourad = {
 ![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=for-the-badge&logo=tauri&logoColor=white)
 ![Electron](https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Cloud & Hosting
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
@@ -80,7 +77,6 @@ const mourad = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-
 
 ![Profile Stats](https://gh-readme-profile.vercel.app/api?username=mouradsme&theme=dark&hide=stars,forks,prs,prs_merged,issues,contributed)
 
