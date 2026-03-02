@@ -82,15 +82,6 @@ const mourad = {
 
 </div>
 
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mouradsme&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
-
-</div>
 
 ---
 
